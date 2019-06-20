@@ -47,6 +47,7 @@ h2 {
 }
 
 .header-phone {
+  z-index: -1;
   height: 500px;
   overflow: hidden;
   margin-right: 15px;
